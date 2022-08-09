@@ -8,6 +8,8 @@ interface ButtonContainerProps {
 export const ButtonContainer = styled.button<ButtonContainerProps>`
   width: 100px;
   height: 50px;
+  border-radius: 8px;
+  margin: 1rem;
 
-  background-color: ${({ variant, theme }) => theme[variant]};
+  background-color: ${({ variant, theme }) => theme['green-500']};
 `;
