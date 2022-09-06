@@ -53,7 +53,7 @@ O projeto utiliza as seguintes ferramentas e bibliotecas:
 Baixe o [.zip][url-zip] do projeto ou faça o clone executando:
 
 ```bash
-$ git clone https://github.com/LMThomaz/pomoFocus
+$ git clone https://github.com/LMThomaz/ignite-timer
 ```
 
 ### :steam_locomotive: Instalar dependências
@@ -127,7 +127,7 @@ $ git push origin minha-feature
 
 ## :mortar_board: Quem ministrou ?
 
-As aulas foram ministradas pelo [Diego Fernandes][diego], nas aulas do **Next Level Week 4.0 - ReactJS** :rocket:
+As aulas foram ministradas pelo [Diego Fernandes][diego], nas aulas do **Ignite - ReactJS** :rocket:
 
 ## :page_with_curl: Licença
 
@@ -142,15 +142,8 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/leonardo-thomaz/" target
 [url-npm]: https://www.npmjs.com/
 [url-yarn]: https://yarnpkg.com/
 [url-figma]: https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1
-[url-ts]: https://www.typescriptlang.org/
 [url-node]: https://nodejs.org/pt-br/
-[url-react]: https://reactjs.org/
-[url-react-native]: https://reactnative.dev/
-[url-expo]: https://expo.io/
 [url-rocketseat]: https://rocketseat.com.br/
-[url-git]: https://git-scm.com/
-[url-vs]: https://code.visualstudio.com/
-[url-npm]: https://www.npmjs.com/
-[url-yarn]: https://yarnpkg.com/
+[url-zip]: https://github.com/LMThomaz/ignite-timer/archive/refs/heads/main.zip
 [diego]: https://github.com/diego3g
 [license]: https://github.com/LMThomaz/ecoleta/blob/master/LICENSE.md
