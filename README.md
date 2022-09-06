@@ -31,13 +31,13 @@ O layout da aplicação está disponível no [Figma][url-figma]
 
 O projeto utiliza as seguintes ferramentas e bibliotecas:
 
-- [x] Date FNS
-- [x] Immer
-- [x] Phosphor React
-- [x] React Hook Form
-- [x] React Router DOM
-- [x] Styled Components
-- [x] ZOD
+- [x] [Date FNS][url-date-fns]
+- [x] [Immer][url-immer]
+- [x] [Phosphor React][url-phosphor]
+- [x] [React Hook Form][url-hook-form]
+- [x] [React Router DOM][url-router-dom]
+- [x] [Styled Components][url-styled]
+- [x] [ZOD][url-zod]
 
 ## :hand: Pré-requisitos
 
@@ -138,10 +138,17 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/leonardo-thomaz/" target
 </h4>
 
 [url-git]: https://git-scm.com/
+[url-date-fns]: https://date-fns.org/
+[url-immer]: https://immerjs.github.io/immer/
+[url-phosphor]: https://phosphoricons.com/
+[url-hook-form]: https://react-hook-form.com/
+[url-router-dom]: https://reactrouter.com/en/main
+[url-styled]: https://styled-components.com/
+[url-zod]: https://zod.dev/
 [url-vs]: https://code.visualstudio.com/
 [url-npm]: https://www.npmjs.com/
 [url-yarn]: https://yarnpkg.com/
-[url-figma]: https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta?node-id=0%3A1
+[url-figma]: https://www.figma.com/file/lTSQwhER6JE1ngPvuKFSM1/Ignite-Timer?node-id=0%3A1
 [url-node]: https://nodejs.org/pt-br/
 [url-rocketseat]: https://rocketseat.com.br/
 [url-zip]: https://github.com/LMThomaz/ignite-timer/archive/refs/heads/main.zip
