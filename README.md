@@ -32,6 +32,7 @@ O layout da aplicação está disponível no [Figma][url-figma]
 O projeto utiliza as seguintes ferramentas e bibliotecas:
 
 - [x] [Date FNS][url-date-fns]
+- [x] [ESLint][url-eslint]
 - [x] [Immer][url-immer]
 - [x] [Phosphor React][url-phosphor]
 - [x] [React Hook Form][url-hook-form]
@@ -145,6 +146,7 @@ Feito com 💜 por <a href="https://www.linkedin.com/in/leonardo-thomaz/" target
 [url-router-dom]: https://reactrouter.com/en/main
 [url-styled]: https://styled-components.com/
 [url-zod]: https://zod.dev/
+[url-eslint]: https://eslint.org/
 [url-vs]: https://code.visualstudio.com/
 [url-npm]: https://www.npmjs.com/
 [url-yarn]: https://yarnpkg.com/
