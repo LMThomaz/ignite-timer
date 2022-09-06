@@ -1,6 +1,6 @@
 <h4 align="center">
     <img alt="" src=".github/logo.svg" />
-    <p>Ignite ReactJS 🚀</p>
+    <p>Ignite Timer</p>
 </h4>
 
 <p align="center">
