@@ -131,12 +131,12 @@ As aulas foram ministradas pelo [Diego Fernandes][diego], nas aulas do **Ignite 
 
 ## :page_with_curl: Licença
 
-## O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais detalhes.
+O projeto está utilizando a licença MIT. Confira [LICENSE][license] para mais detalhes.
 
 <h4 align="center">
 Feito com 💜 por <a href="https://www.linkedin.com/in/leonardo-thomaz/" target="_blank">Leonardo Thomaz</a>
 </h4>
- 
+
 [url-git]: https://git-scm.com/
 [url-vs]: https://code.visualstudio.com/
 [url-npm]: https://www.npmjs.com/
